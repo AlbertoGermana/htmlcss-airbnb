@@ -29,9 +29,17 @@ main{
   background-image: url("../img/palermo.jpg");
   background-size: cover;
 }
+#milano{
+  background-image: url("../img/milano.jpg");
+  background-size: cover;
+}
+#roma{
+  background-image: url("../img/roma.jpg");
+  background-size: cover;
+}
 span{
   color: white;
-  font-size: 20px;
+  font-size: 80px;
   position: absolute;
   z-index: 3;
   left: 50%;
