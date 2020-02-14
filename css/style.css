@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+header{}
+main{
+  width: 100vw;
+  height: 100vh;
+  background-color: pink;
+}
+section{}
+article{}
+#palermo{}
+#milano{}
+#roma{}
+.city_box{
+  width: 100vw;
+  height: 10vh;
+}
+.black_opacity{}
+.city_img{
+  width: 100%;
+}
+footer{}
