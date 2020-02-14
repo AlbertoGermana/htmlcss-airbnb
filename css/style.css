@@ -5,9 +5,9 @@
 }
 header{}
 main{
-  width: 100vw;
-  height: 100vh;
-  background-color: pink;
+  /* width: 100vw;
+  height: 100vh; */
+
 }
 section{}
 article{}
@@ -16,10 +16,12 @@ article{}
 #roma{}
 .city_box{
   width: 100vw;
-  height: 10vh;
+  height: 33vh;
+  display: inline;
 }
 .black_opacity{}
 .city_img{
-  width: 100%;
+  /* width: 100vw;
+  height: 33vh; */
 }
 footer{}
